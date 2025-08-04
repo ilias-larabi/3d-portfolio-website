@@ -1,6 +1,17 @@
-# henryheffernan.com
+# 3D Portfolio Website - Ilias Larabi
 
-This is one of two repositories created for my portfolio website <a href="https://henryheffernan.com/"><samp>henryheffernan.com</samp></a>. If you are looking for the 2D OS repository you can find it <a href="https://github.com/henryjeff/portfolio-inner-site"><samp>here</samp></a>! Thanks for taking the time to check this out. If you have any questions of comments, feel free to shoot me an email at <samp><a href="mailto:henryheffernan@gmail.com">henryheffernan@gmail.com</a></samp> or you can DM me on twitter <a href="https://twitter.com/henryheffernan"><samp>@henryheffernan</samp></a>.
+Interactive 3D portfolio website built with React, TypeScript, and Three.js featuring a retro computer interface. This portfolio showcases my full-stack development skills with dynamic animations and responsive design.
+
+**Live Demo:** [https://ilias-larabi.github.io/3d-portfolio-website/](https://ilias-larabi.github.io/3d-portfolio-website/)
+
+**Features:**
+- 3D interactive computer interface
+- Retro BIOS-style loading screen
+- Custom portfolio content with tech stack showcase
+- NUTSTREE project integration
+- Responsive design
+
+Thanks for checking out my portfolio! If you have any questions or comments, feel free to reach out via [GitHub](https://github.com/ilias-larabi).
 
 <br>
 
