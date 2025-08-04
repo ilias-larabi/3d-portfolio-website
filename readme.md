@@ -13,6 +13,9 @@ Interactive 3D portfolio website built with React, TypeScript, and Three.js feat
 
 Thanks for checking out my portfolio! If you have any questions or comments, feel free to reach out via [GitHub](https://github.com/ilias-larabi).
 
+---
+*Last updated: January 2025*
+
 <br>
 
 To setup a dev environment:
