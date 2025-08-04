@@ -184,7 +184,7 @@ export default class MonitorScreen extends EventEmitter {
 
         // Set iframe attributes
         // PROD
-        iframe.src = 'https://os.henryheffernan.com/';
+        iframe.src = 'https://ilias-larabi.github.io/windows95-portfolio/';
         /**
          * Use dev server is query params are present
          *
@@ -204,7 +204,7 @@ export default class MonitorScreen extends EventEmitter {
         iframe.className = 'jitter';
         iframe.id = 'computer-screen';
         iframe.frameBorder = '0';
-        iframe.title = 'HeffernanOS';
+        iframe.title = 'Ilias Larabi Portfolio - Windows 95';
 
         // Add iframe to container
         container.appendChild(iframe);
