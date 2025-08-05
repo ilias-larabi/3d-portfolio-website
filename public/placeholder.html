@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ilias Larabi - Portfolio</title>
+    <style>
+        body {
+            font-family: 'Courier New', monospace;
+            background: #000;
+            color: #00ff00;
+            margin: 0;
+            padding: 20px;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        .container {
+            text-align: center;
+            max-width: 600px;
+        }
+        h1 {
+            font-size: 2em;
+            margin-bottom: 20px;
+            text-shadow: 0 0 10px #00ff00;
+        }
+        .info {
+            font-size: 1.2em;
+            line-height: 1.6;
+            margin-bottom: 30px;
+        }
+        .blink {
+            animation: blink 1s infinite;
+        }
+        @keyframes blink {
+            0%, 50% { opacity: 1; }
+            51%, 100% { opacity: 0; }
+        }
+        .section {
+            margin: 20px 0;
+            padding: 15px;
+            border: 1px solid #00ff00;
+            background: rgba(0, 255, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>ILIAS LARABI</h1>
+        <div class="info">
+            <div class="section">
+                <strong>SOFTWARE ENGINEER</strong><br>
+                Casablanca, Morocco
+            </div>
+            <div class="section">
+                <strong>EDUCATION:</strong><br>
+                EMSI - École Marocaine des Sciences de l'Ingénierie
+            </div>
+            <div class="section">
+                <strong>STATUS:</strong><br>
+                Available for exciting opportunities<span class="blink">_</span>
+            </div>
+        </div>
+        <p>Welcome to my portfolio showcase!</p>
+    </div>
+</body>
+</html>
